@@ -1,0 +1,171 @@
+[logs/Android_TestDevices INFO ] 2022-08-26 18:09:38.168 BaseTest:219 - log path: logs/Android_TestDevices
+[logs/Android_TestDevices INFO ] 2022-08-26 18:09:38.176 BaseTest:226 - load config.properties
+[logs/Android_TestDevices INFO ] 2022-08-26 18:09:38.186 BaseTest:231 - load strings/strings.xml
+[logs/Android_TestDevices FATAL] 2022-08-26 18:10:15.089 BaseTest:279 - driver initialization failure. ABORT!!!
+org.openqa.selenium.SessionNotCreatedException: Unable to create a new remote session. Please check the server log for more details. Original error: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to the remote server. Original error: socket hang up
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Prasanths-MacBook-Pro.local', ip: 'fe80:0:0:0:1477:4637:bfcd:a0d7%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '15.0.2'
+Driver info: driver.version: AndroidDriver
+remote stacktrace: UnknownError: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to the remote server. Original error: socket hang up
+    at UIA2Proxy.command (/Applications/Appium Server GUI.app/Contents/Resources/app/node_modules/appium/node_modules/appium-base-driver/lib/jsonwp-proxy/proxy.js:274:13)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at AndroidUiautomator2Driver.commands.getDevicePixelRatio (/Applications/Appium Server GUI.app/Contents/Resources/app/node_modules/appium/node_modules/appium-uiautomator2-driver/lib/commands/viewport.js:14:10)
+    at AndroidUiautomator2Driver.fillDeviceDetails (/Applications/Appium Server GUI.app/Contents/Resources/app/node_modules/appium/node_modules/appium-uiautomator2-driver/lib/driver.js:244:28)
+    at AndroidUiautomator2Driver.createSession (/Applications/Appium Server GUI.app/Contents/Resources/app/node_modules/appium/node_modules/appium-uiautomator2-driver/lib/driver.js:230:7)
+    at AppiumDriver.createSession (/Applications/Appium Server GUI.app/Contents/Resources/app/node_modules/appium/lib/appium.js:387:35)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Prasanths-MacBook-Pro.local', ip: 'fe80:0:0:0:1477:4637:bfcd:a0d7%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '15.0.2'
+Driver info: driver.version: AndroidDriver
+[logs/Android_TestDevices INFO ] 2022-08-26 18:13:08.276 BaseTest:219 - log path: logs/Android_TestDevices
+[logs/Android_TestDevices INFO ] 2022-08-26 18:13:08.281 BaseTest:226 - load config.properties
+[logs/Android_TestDevices INFO ] 2022-08-26 18:13:08.283 BaseTest:231 - load strings/strings.xml
+[logs/Android_TestDevices FATAL] 2022-08-26 18:13:27.313 BaseTest:279 - driver initialization failure. ABORT!!!
+org.openqa.selenium.SessionNotCreatedException: Unable to create a new remote session. Please check the server log for more details. Original error: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to the remote server. Original error: socket hang up
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Prasanths-MacBook-Pro.local', ip: 'fe80:0:0:0:1477:4637:bfcd:a0d7%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '15.0.2'
+Driver info: driver.version: AndroidDriver
+remote stacktrace: UnknownError: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to the remote server. Original error: socket hang up
+    at UIA2Proxy.command (/Applications/Appium Server GUI.app/Contents/Resources/app/node_modules/appium/node_modules/appium-base-driver/lib/jsonwp-proxy/proxy.js:274:13)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at AndroidUiautomator2Driver.commands.getDevicePixelRatio (/Applications/Appium Server GUI.app/Contents/Resources/app/node_modules/appium/node_modules/appium-uiautomator2-driver/lib/commands/viewport.js:14:10)
+    at AndroidUiautomator2Driver.fillDeviceDetails (/Applications/Appium Server GUI.app/Contents/Resources/app/node_modules/appium/node_modules/appium-uiautomator2-driver/lib/driver.js:244:28)
+    at AndroidUiautomator2Driver.createSession (/Applications/Appium Server GUI.app/Contents/Resources/app/node_modules/appium/node_modules/appium-uiautomator2-driver/lib/driver.js:230:7)
+    at AppiumDriver.createSession (/Applications/Appium Server GUI.app/Contents/Resources/app/node_modules/appium/lib/appium.js:387:35)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Prasanths-MacBook-Pro.local', ip: 'fe80:0:0:0:1477:4637:bfcd:a0d7%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '15.0.2'
+Driver info: driver.version: AndroidDriver
+[logs/Android_TestDevices INFO ] 2022-08-26 18:13:48.024 BaseTest:219 - log path: logs/Android_TestDevices
+[logs/Android_TestDevices INFO ] 2022-08-26 18:13:48.032 BaseTest:226 - load config.properties
+[logs/Android_TestDevices INFO ] 2022-08-26 18:13:48.035 BaseTest:231 - load strings/strings.xml
+[logs/Android_TestDevices FATAL] 2022-08-26 18:14:05.288 BaseTest:279 - driver initialization failure. ABORT!!!
+org.openqa.selenium.SessionNotCreatedException: Unable to create a new remote session. Please check the server log for more details. Original error: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to the remote server. Original error: socket hang up
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Prasanths-MacBook-Pro.local', ip: 'fe80:0:0:0:1477:4637:bfcd:a0d7%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '15.0.2'
+Driver info: driver.version: AndroidDriver
+remote stacktrace: UnknownError: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to the remote server. Original error: socket hang up
+    at UIA2Proxy.command (/Applications/Appium Server GUI.app/Contents/Resources/app/node_modules/appium/node_modules/appium-base-driver/lib/jsonwp-proxy/proxy.js:274:13)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at AndroidUiautomator2Driver.commands.getDevicePixelRatio (/Applications/Appium Server GUI.app/Contents/Resources/app/node_modules/appium/node_modules/appium-uiautomator2-driver/lib/commands/viewport.js:14:10)
+    at AndroidUiautomator2Driver.fillDeviceDetails (/Applications/Appium Server GUI.app/Contents/Resources/app/node_modules/appium/node_modules/appium-uiautomator2-driver/lib/driver.js:244:28)
+    at AndroidUiautomator2Driver.createSession (/Applications/Appium Server GUI.app/Contents/Resources/app/node_modules/appium/node_modules/appium-uiautomator2-driver/lib/driver.js:230:7)
+    at AppiumDriver.createSession (/Applications/Appium Server GUI.app/Contents/Resources/app/node_modules/appium/lib/appium.js:387:35)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Prasanths-MacBook-Pro.local', ip: 'fe80:0:0:0:1477:4637:bfcd:a0d7%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '15.0.2'
+Driver info: driver.version: AndroidDriver
+[logs/Android_TestDevices INFO ] 2022-08-26 18:16:44.169 BaseTest:219 - log path: logs/Android_TestDevices
+[logs/Android_TestDevices INFO ] 2022-08-26 18:16:44.179 BaseTest:226 - load config.properties
+[logs/Android_TestDevices INFO ] 2022-08-26 18:16:44.183 BaseTest:231 - load strings/strings.xml
+[logs/Android_TestDevices FATAL] 2022-08-26 18:17:04.041 BaseTest:279 - driver initialization failure. ABORT!!!
+org.openqa.selenium.SessionNotCreatedException: Unable to create a new remote session. Please check the server log for more details. Original error: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to the remote server. Original error: socket hang up
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Prasanths-MacBook-Pro.local', ip: 'fe80:0:0:0:1477:4637:bfcd:a0d7%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '15.0.2'
+Driver info: driver.version: AndroidDriver
+remote stacktrace: UnknownError: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to the remote server. Original error: socket hang up
+    at UIA2Proxy.command (/Applications/Appium Server GUI.app/Contents/Resources/app/node_modules/appium/node_modules/appium-base-driver/lib/jsonwp-proxy/proxy.js:274:13)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at AndroidUiautomator2Driver.commands.getDevicePixelRatio (/Applications/Appium Server GUI.app/Contents/Resources/app/node_modules/appium/node_modules/appium-uiautomator2-driver/lib/commands/viewport.js:14:10)
+    at AndroidUiautomator2Driver.fillDeviceDetails (/Applications/Appium Server GUI.app/Contents/Resources/app/node_modules/appium/node_modules/appium-uiautomator2-driver/lib/driver.js:244:28)
+    at AndroidUiautomator2Driver.createSession (/Applications/Appium Server GUI.app/Contents/Resources/app/node_modules/appium/node_modules/appium-uiautomator2-driver/lib/driver.js:230:7)
+    at AppiumDriver.createSession (/Applications/Appium Server GUI.app/Contents/Resources/app/node_modules/appium/lib/appium.js:387:35)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Prasanths-MacBook-Pro.local', ip: 'fe80:0:0:0:1477:4637:bfcd:a0d7%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '15.0.2'
+Driver info: driver.version: AndroidDriver
+[logs/Android_TestDevices INFO ] 2022-08-26 18:34:06.866 BaseTest:219 - log path: logs/Android_TestDevices
+[logs/Android_TestDevices INFO ] 2022-08-26 18:34:06.872 BaseTest:226 - load config.properties
+[logs/Android_TestDevices INFO ] 2022-08-26 18:34:06.874 BaseTest:231 - load strings/strings.xml
+[logs/Android_TestDevices FATAL] 2022-08-26 18:34:19.177 BaseTest:279 - driver initialization failure. ABORT!!!
+org.openqa.selenium.SessionNotCreatedException: Unable to create a new remote session. Please check the server log for more details. Original error: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to the remote server. Original error: socket hang up
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Prasanths-MacBook-Pro.local', ip: 'fe80:0:0:0:1477:4637:bfcd:a0d7%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '15.0.2'
+Driver info: driver.version: AndroidDriver
+remote stacktrace: UnknownError: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to the remote server. Original error: socket hang up
+    at UIA2Proxy.command (/opt/homebrew/lib/node_modules/appium/node_modules/appium-base-driver/lib/jsonwp-proxy/proxy.js:274:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at AndroidUiautomator2Driver.commands.getDevicePixelRatio (/opt/homebrew/lib/node_modules/appium/node_modules/appium-uiautomator2-driver/lib/commands/viewport.js:14:10)
+    at AndroidUiautomator2Driver.fillDeviceDetails (/opt/homebrew/lib/node_modules/appium/node_modules/appium-uiautomator2-driver/lib/driver.js:244:28)
+    at AndroidUiautomator2Driver.createSession (/opt/homebrew/lib/node_modules/appium/node_modules/appium-uiautomator2-driver/lib/driver.js:230:7)
+    at AppiumDriver.createSession (/opt/homebrew/lib/node_modules/appium/lib/appium.js:387:35)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Prasanths-MacBook-Pro.local', ip: 'fe80:0:0:0:1477:4637:bfcd:a0d7%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '15.0.2'
+Driver info: driver.version: AndroidDriver
+[logs/Android_TestDevices INFO ] 2022-08-26 18:36:57.923 BaseTest:219 - log path: logs/Android_TestDevices
+[logs/Android_TestDevices INFO ] 2022-08-26 18:36:57.930 BaseTest:226 - load config.properties
+[logs/Android_TestDevices INFO ] 2022-08-26 18:36:57.935 BaseTest:231 - load strings/strings.xml
+[logs/Android_TestDevices FATAL] 2022-08-26 18:37:07.355 BaseTest:279 - driver initialization failure. ABORT!!!
+org.openqa.selenium.SessionNotCreatedException: Unable to create a new remote session. Please check the server log for more details. Original error: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to the remote server. Original error: socket hang up
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Prasanths-MacBook-Pro.local', ip: 'fe80:0:0:0:1477:4637:bfcd:a0d7%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '15.0.2'
+Driver info: driver.version: AndroidDriver
+remote stacktrace: UnknownError: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to the remote server. Original error: socket hang up
+    at UIA2Proxy.command (/Applications/Appium Server GUI.app/Contents/Resources/app/node_modules/appium/node_modules/appium-base-driver/lib/jsonwp-proxy/proxy.js:274:13)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at AndroidUiautomator2Driver.commands.getDevicePixelRatio (/Applications/Appium Server GUI.app/Contents/Resources/app/node_modules/appium/node_modules/appium-uiautomator2-driver/lib/commands/viewport.js:14:10)
+    at AndroidUiautomator2Driver.fillDeviceDetails (/Applications/Appium Server GUI.app/Contents/Resources/app/node_modules/appium/node_modules/appium-uiautomator2-driver/lib/driver.js:244:28)
+    at AndroidUiautomator2Driver.createSession (/Applications/Appium Server GUI.app/Contents/Resources/app/node_modules/appium/node_modules/appium-uiautomator2-driver/lib/driver.js:230:7)
+    at AppiumDriver.createSession (/Applications/Appium Server GUI.app/Contents/Resources/app/node_modules/appium/lib/appium.js:387:35)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Prasanths-MacBook-Pro.local', ip: 'fe80:0:0:0:1477:4637:bfcd:a0d7%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '15.0.2'
+Driver info: driver.version: AndroidDriver
+[logs/Android_TestDevices INFO ] 2022-08-26 18:38:26.746 BaseTest:219 - log path: logs/Android_TestDevices
+[logs/Android_TestDevices INFO ] 2022-08-26 18:38:26.751 BaseTest:226 - load config.properties
+[logs/Android_TestDevices INFO ] 2022-08-26 18:38:26.755 BaseTest:231 - load strings/strings.xml
+[logs/Android_TestDevices FATAL] 2022-08-26 18:38:33.703 BaseTest:279 - driver initialization failure. ABORT!!!
+org.openqa.selenium.SessionNotCreatedException: Unable to create a new remote session. Please check the server log for more details. Original error: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to the remote server. Original error: socket hang up
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Prasanths-MacBook-Pro.local', ip: 'fe80:0:0:0:1477:4637:bfcd:a0d7%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '15.0.2'
+Driver info: driver.version: AndroidDriver
+remote stacktrace: UnknownError: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to the remote server. Original error: socket hang up
+    at UIA2Proxy.command (/Applications/Appium Server GUI.app/Contents/Resources/app/node_modules/appium/node_modules/appium-base-driver/lib/jsonwp-proxy/proxy.js:274:13)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at AndroidUiautomator2Driver.commands.getDevicePixelRatio (/Applications/Appium Server GUI.app/Contents/Resources/app/node_modules/appium/node_modules/appium-uiautomator2-driver/lib/commands/viewport.js:14:10)
+    at AndroidUiautomator2Driver.fillDeviceDetails (/Applications/Appium Server GUI.app/Contents/Resources/app/node_modules/appium/node_modules/appium-uiautomator2-driver/lib/driver.js:244:28)
+    at AndroidUiautomator2Driver.createSession (/Applications/Appium Server GUI.app/Contents/Resources/app/node_modules/appium/node_modules/appium-uiautomator2-driver/lib/driver.js:230:7)
+    at AppiumDriver.createSession (/Applications/Appium Server GUI.app/Contents/Resources/app/node_modules/appium/lib/appium.js:387:35)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Prasanths-MacBook-Pro.local', ip: 'fe80:0:0:0:1477:4637:bfcd:a0d7%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '15.0.2'
+Driver info: driver.version: AndroidDriver
+[logs/Android_TestDevices INFO ] 2022-08-26 18:39:10.360 BaseTest:219 - log path: logs/Android_TestDevices
+[logs/Android_TestDevices INFO ] 2022-08-26 18:39:10.364 BaseTest:226 - load config.properties
+[logs/Android_TestDevices INFO ] 2022-08-26 18:39:10.367 BaseTest:231 - load strings/strings.xml
+[logs/Android_TestDevices FATAL] 2022-08-26 18:39:18.787 BaseTest:279 - driver initialization failure. ABORT!!!
+org.openqa.selenium.SessionNotCreatedException: Unable to create a new remote session. Please check the server log for more details. Original error: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to the remote server. Original error: socket hang up
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Prasanths-MacBook-Pro.local', ip: 'fe80:0:0:0:1477:4637:bfcd:a0d7%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '15.0.2'
+Driver info: driver.version: AndroidDriver
+remote stacktrace: UnknownError: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to the remote server. Original error: socket hang up
+    at UIA2Proxy.command (/Applications/Appium Server GUI.app/Contents/Resources/app/node_modules/appium/node_modules/appium-base-driver/lib/jsonwp-proxy/proxy.js:274:13)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at AndroidUiautomator2Driver.commands.getDevicePixelRatio (/Applications/Appium Server GUI.app/Contents/Resources/app/node_modules/appium/node_modules/appium-uiautomator2-driver/lib/commands/viewport.js:14:10)
+    at AndroidUiautomator2Driver.fillDeviceDetails (/Applications/Appium Server GUI.app/Contents/Resources/app/node_modules/appium/node_modules/appium-uiautomator2-driver/lib/driver.js:244:28)
+    at AndroidUiautomator2Driver.createSession (/Applications/Appium Server GUI.app/Contents/Resources/app/node_modules/appium/node_modules/appium-uiautomator2-driver/lib/driver.js:230:7)
+    at AppiumDriver.createSession (/Applications/Appium Server GUI.app/Contents/Resources/app/node_modules/appium/lib/appium.js:387:35)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Prasanths-MacBook-Pro.local', ip: 'fe80:0:0:0:1477:4637:bfcd:a0d7%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '15.0.2'
+Driver info: driver.version: AndroidDriver
+[logs/Android_TestDevices INFO ] 2022-08-26 18:56:26.620 BaseTest:219 - log path: logs/Android_TestDevices
+[logs/Android_TestDevices INFO ] 2022-08-26 18:56:26.623 BaseTest:226 - load config.properties
+[logs/Android_TestDevices INFO ] 2022-08-26 18:56:26.626 BaseTest:231 - load strings/strings.xml
+[logs/Android_TestDevices FATAL] 2022-08-26 18:56:40.660 BaseTest:279 - driver initialization failure. ABORT!!!
+org.openqa.selenium.SessionNotCreatedException: Unable to create a new remote session. Please check the server log for more details. Original error: An unknown server-side error occurred while processing the command. Original error: Error executing adbExec. Original error: 'Command '/Users/prasanthkaruppaiya/Library/Android/sdk/platform-tools/adb -P 5037 -s emulator-5554 shell 'settings delete global hidden_api_policy_pre_p_apps;settings delete global hidden_api_policy_p_apps;settings delete global hidden_api_policy'' exited with code 20'; Command output: cmd: Can't find service: settings
+cmd: Can't find service: settings
+cmd: Can't find service: settings
+
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Prasanths-MacBook-Pro.local', ip: 'fe80:0:0:0:893:d944:23a0:805f%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '15.0.2'
+Driver info: driver.version: AndroidDriver
+remote stacktrace: UnknownError: An unknown server-side error occurred while processing the command. Original error: Error executing adbExec. Original error: 'Command '/Users/prasanthkaruppaiya/Library/Android/sdk/platform-tools/adb -P 5037 -s emulator-5554 shell 'settings delete global hidden_api_policy_pre_p_apps;settings delete global hidden_api_policy_p_apps;settings delete global hidden_api_policy'' exited with code 20'; Command output: cmd: Can't find service: settings
+cmd: Can't find service: settings
+cmd: Can't find service: settings
+
+    at getResponseForW3CError (/opt/homebrew/lib/node_modules/appium/node_modules/appium-base-driver/lib/protocol/errors.js:804:9)
+    at asyncHandler (/opt/homebrew/lib/node_modules/appium/node_modules/appium-base-driver/lib/protocol/protocol.js:380:37)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Prasanths-MacBook-Pro.local', ip: 'fe80:0:0:0:893:d944:23a0:805f%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '15.0.2'
+Driver info: driver.version: AndroidDriver

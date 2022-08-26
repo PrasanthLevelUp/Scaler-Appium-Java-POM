@@ -1,0 +1,424 @@
+[logs/Android_TestDevice INFO ] 2022-08-26 11:20:28.939 BaseTest:221 - log path: logs/Android_TestDevice
+[logs/Android_TestDevice INFO ] 2022-08-26 11:20:28.943 BaseTest:228 - load config.properties
+[logs/Android_TestDevice INFO ] 2022-08-26 11:20:28.947 BaseTest:233 - load strings/strings.xml
+[logs/Android_TestDevice INFO ] 2022-08-26 11:20:50.738 BaseTest:279 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.scaler.app.ui.SplashScreenActivity, appPackage=com.scaler.app, automationName=UiAutomator2, avd=TestDevice, avdLaunchTimeout=120000, databaseEnabled=false, desired={platformName=android, appActivity=com.scaler.app.ui.SplashScreenActivity, appPackage=com.scaler.app, automationName=UiAutomator2, avd=TestDevice, avdLaunchTimeout=120000, deviceName=TestDevice, systemPort=10000, udid=emulator-5554}, deviceApiLevel=33, deviceManufacturer=Google, deviceModel=sdk_gphone64_arm64, deviceName=emulator-5554, deviceScreenDensity=560, deviceScreenSize=1440x2560, deviceUDID=emulator-5554, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=3.5, platform=LINUX, platformName=Android, platformVersion=13, statBarHeight=84, systemPort=10000, takesScreenshot=true, udid=emulator-5554, viewportRect={left=0, top=84, width=1440, height=2392}, warnings={}, webStorageEnabled=false}
+[logs/Android_TestDevice INFO ] 2022-08-26 11:21:07.222 LoginTests:47 - 
+****** starting test:view******
+
+[logs/Android_TestDevice INFO ] 2022-08-26 11:22:14.589 BaseTest:221 - log path: logs/Android_TestDevice
+[logs/Android_TestDevice INFO ] 2022-08-26 11:22:14.593 BaseTest:228 - load config.properties
+[logs/Android_TestDevice INFO ] 2022-08-26 11:22:14.596 BaseTest:233 - load strings/strings.xml
+[logs/Android_TestDevice INFO ] 2022-08-26 11:22:37.645 BaseTest:279 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.scaler.app.ui.SplashScreenActivity, appPackage=com.scaler.app, automationName=UiAutomator2, avd=TestDevice, avdLaunchTimeout=120000, databaseEnabled=false, desired={platformName=android, appActivity=com.scaler.app.ui.SplashScreenActivity, appPackage=com.scaler.app, automationName=UiAutomator2, avd=TestDevice, avdLaunchTimeout=120000, deviceName=TestDevice, systemPort=10000, udid=emulator-5554}, deviceApiLevel=33, deviceManufacturer=Google, deviceModel=sdk_gphone64_arm64, deviceName=emulator-5554, deviceScreenDensity=560, deviceScreenSize=1440x2560, deviceUDID=emulator-5554, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=3.5, platform=LINUX, platformName=Android, platformVersion=13, statBarHeight=84, systemPort=10000, takesScreenshot=true, udid=emulator-5554, viewportRect={left=0, top=84, width=1440, height=2392}, warnings={}, webStorageEnabled=false}
+[logs/Android_TestDevice INFO ] 2022-08-26 11:22:44.719 LoginTests:47 - 
+****** starting test:view******
+
+[logs/Android_TestDevice INFO ] 2022-08-26 11:28:19.666 BaseTest:221 - log path: logs/Android_TestDevice
+[logs/Android_TestDevice INFO ] 2022-08-26 11:28:19.670 BaseTest:228 - load config.properties
+[logs/Android_TestDevice INFO ] 2022-08-26 11:28:19.674 BaseTest:233 - load strings/strings.xml
+[logs/Android_TestDevice INFO ] 2022-08-26 11:28:41.857 BaseTest:279 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.scaler.app.ui.SplashScreenActivity, appPackage=com.scaler.app, automationName=UiAutomator2, avd=TestDevice, avdLaunchTimeout=120000, databaseEnabled=false, desired={platformName=android, appActivity=com.scaler.app.ui.SplashScreenActivity, appPackage=com.scaler.app, automationName=UiAutomator2, avd=TestDevice, avdLaunchTimeout=120000, deviceName=TestDevice, systemPort=10000, udid=emulator-5554}, deviceApiLevel=33, deviceManufacturer=Google, deviceModel=sdk_gphone64_arm64, deviceName=emulator-5554, deviceScreenDensity=560, deviceScreenSize=1440x2560, deviceUDID=emulator-5554, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=3.5, platform=LINUX, platformName=Android, platformVersion=13, statBarHeight=84, systemPort=10000, takesScreenshot=true, udid=emulator-5554, viewportRect={left=0, top=84, width=1440, height=2392}, warnings={}, webStorageEnabled=false}
+[logs/Android_TestDevice INFO ] 2022-08-26 11:28:48.048 LoginTests:47 - 
+****** starting test:view******
+
+[logs/Android_TestDevice INFO ] 2022-08-26 11:31:51.738 BaseTest:221 - log path: logs/Android_TestDevice
+[logs/Android_TestDevice INFO ] 2022-08-26 11:31:51.742 BaseTest:228 - load config.properties
+[logs/Android_TestDevice INFO ] 2022-08-26 11:31:51.746 BaseTest:233 - load strings/strings.xml
+[logs/Android_TestDevice INFO ] 2022-08-26 11:32:05.601 BaseTest:279 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.scaler.app.ui.SplashScreenActivity, appPackage=com.scaler.app, automationName=UiAutomator2, avd=TestDevice, avdLaunchTimeout=120000, databaseEnabled=false, desired={platformName=android, appActivity=com.scaler.app.ui.SplashScreenActivity, appPackage=com.scaler.app, automationName=UiAutomator2, avd=TestDevice, avdLaunchTimeout=120000, deviceName=TestDevice, systemPort=10000, udid=emulator-5554}, deviceApiLevel=33, deviceManufacturer=Google, deviceModel=sdk_gphone64_arm64, deviceName=emulator-5554, deviceScreenDensity=560, deviceScreenSize=1440x2560, deviceUDID=emulator-5554, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=3.5, platform=LINUX, platformName=Android, platformVersion=13, statBarHeight=84, systemPort=10000, takesScreenshot=true, udid=emulator-5554, viewportRect={left=0, top=84, width=1440, height=2392}, warnings={}, webStorageEnabled=false}
+[logs/Android_TestDevice INFO ] 2022-08-26 11:32:10.120 LoginTests:47 - 
+****** starting test:view******
+
+[logs/Android_TestDevice INFO ] 2022-08-26 11:40:39.852 BaseTest:221 - log path: logs/Android_TestDevice
+[logs/Android_TestDevice INFO ] 2022-08-26 11:40:39.856 BaseTest:228 - load config.properties
+[logs/Android_TestDevice INFO ] 2022-08-26 11:40:39.860 BaseTest:233 - load strings/strings.xml
+[logs/Android_TestDevice INFO ] 2022-08-26 11:40:55.378 BaseTest:279 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.scaler.app.ui.SplashScreenActivity, appPackage=com.scaler.app, automationName=UiAutomator2, avd=TestDevice, avdLaunchTimeout=120000, databaseEnabled=false, desired={platformName=android, appActivity=com.scaler.app.ui.SplashScreenActivity, appPackage=com.scaler.app, automationName=UiAutomator2, avd=TestDevice, avdLaunchTimeout=120000, deviceName=TestDevice, systemPort=10000, udid=emulator-5554}, deviceApiLevel=33, deviceManufacturer=Google, deviceModel=sdk_gphone64_arm64, deviceName=emulator-5554, deviceScreenDensity=560, deviceScreenSize=1440x2560, deviceUDID=emulator-5554, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=3.5, platform=LINUX, platformName=Android, platformVersion=13, statBarHeight=84, systemPort=10000, takesScreenshot=true, udid=emulator-5554, viewportRect={left=0, top=84, width=1440, height=2392}, warnings={}, webStorageEnabled=false}
+[logs/Android_TestDevice INFO ] 2022-08-26 11:40:59.300 LoginTests:47 - 
+****** starting test:view******
+
+[logs/Android_TestDevice INFO ] 2022-08-26 11:43:21.180 BaseTest:221 - log path: logs/Android_TestDevice
+[logs/Android_TestDevice INFO ] 2022-08-26 11:43:21.185 BaseTest:228 - load config.properties
+[logs/Android_TestDevice INFO ] 2022-08-26 11:43:21.187 BaseTest:233 - load strings/strings.xml
+[logs/Android_TestDevice INFO ] 2022-08-26 11:43:45.944 BaseTest:279 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.scaler.app.ui.SplashScreenActivity, appPackage=com.scaler.app, automationName=UiAutomator2, avd=TestDevice, avdLaunchTimeout=120000, databaseEnabled=false, desired={platformName=android, appActivity=com.scaler.app.ui.SplashScreenActivity, appPackage=com.scaler.app, automationName=UiAutomator2, avd=TestDevice, avdLaunchTimeout=120000, deviceName=TestDevice, systemPort=10000, udid=emulator-5554}, deviceApiLevel=33, deviceManufacturer=Google, deviceModel=sdk_gphone64_arm64, deviceName=emulator-5554, deviceScreenDensity=560, deviceScreenSize=1440x2560, deviceUDID=emulator-5554, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=3.5, platform=LINUX, platformName=Android, platformVersion=13, statBarHeight=84, systemPort=10000, takesScreenshot=true, udid=emulator-5554, viewportRect={left=0, top=84, width=1440, height=2392}, warnings={}, webStorageEnabled=false}
+[logs/Android_TestDevice INFO ] 2022-08-26 11:43:51.206 LoginTests:47 - 
+****** starting test:view******
+
+[logs/Android_TestDevice INFO ] 2022-08-26 11:47:49.362 BaseTest:221 - log path: logs/Android_TestDevice
+[logs/Android_TestDevice INFO ] 2022-08-26 11:47:49.365 BaseTest:228 - load config.properties
+[logs/Android_TestDevice INFO ] 2022-08-26 11:47:49.369 BaseTest:233 - load strings/strings.xml
+[logs/Android_TestDevice INFO ] 2022-08-26 11:48:17.092 BaseTest:279 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.scaler.app.ui.SplashScreenActivity, appPackage=com.scaler.app, automationName=UiAutomator2, avd=TestDevice, avdLaunchTimeout=120000, databaseEnabled=false, desired={platformName=android, appActivity=com.scaler.app.ui.SplashScreenActivity, appPackage=com.scaler.app, automationName=UiAutomator2, avd=TestDevice, avdLaunchTimeout=120000, deviceName=TestDevice, systemPort=10000, udid=emulator-5554}, deviceApiLevel=33, deviceManufacturer=Google, deviceModel=sdk_gphone64_arm64, deviceName=emulator-5554, deviceScreenDensity=560, deviceScreenSize=1440x2560, deviceUDID=emulator-5554, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=3.5, platform=LINUX, platformName=Android, platformVersion=13, statBarHeight=84, systemPort=10000, takesScreenshot=true, udid=emulator-5554, viewportRect={left=0, top=84, width=1440, height=2392}, warnings={}, webStorageEnabled=false}
+[logs/Android_TestDevice INFO ] 2022-08-26 11:48:28.889 LoginTests:47 - 
+****** starting test:view******
+
+[logs/Android_TestDevice INFO ] 2022-08-26 12:11:02.438 BaseTest:221 - log path: logs/Android_TestDevice
+[logs/Android_TestDevice INFO ] 2022-08-26 12:11:02.442 BaseTest:228 - load config.properties
+[logs/Android_TestDevice INFO ] 2022-08-26 12:11:02.444 BaseTest:233 - load strings/strings.xml
+[logs/Android_TestDevice INFO ] 2022-08-26 12:11:26.654 BaseTest:279 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.scaler.app.ui.SplashScreenActivity, appPackage=com.scaler.app, automationName=UiAutomator2, avd=TestDevice, avdLaunchTimeout=120000, databaseEnabled=false, desired={platformName=android, appActivity=com.scaler.app.ui.SplashScreenActivity, appPackage=com.scaler.app, automationName=UiAutomator2, avd=TestDevice, avdLaunchTimeout=120000, deviceName=TestDevice, systemPort=10000, udid=emulator-5554}, deviceApiLevel=33, deviceManufacturer=Google, deviceModel=sdk_gphone64_arm64, deviceName=emulator-5554, deviceScreenDensity=560, deviceScreenSize=1440x2560, deviceUDID=emulator-5554, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=3.5, platform=LINUX, platformName=Android, platformVersion=13, statBarHeight=84, systemPort=10000, takesScreenshot=true, udid=emulator-5554, viewportRect={left=0, top=84, width=1440, height=2392}, warnings={}, webStorageEnabled=false}
+[logs/Android_TestDevice INFO ] 2022-08-26 12:11:33.717 LoginTests:47 - 
+****** starting test:view******
+
+[logs/Android_TestDevice INFO ] 2022-08-26 15:15:17.030 BaseTest:221 - log path: logs/Android_TestDevice
+[logs/Android_TestDevice INFO ] 2022-08-26 15:15:17.035 BaseTest:228 - load config.properties
+[logs/Android_TestDevice INFO ] 2022-08-26 15:15:17.037 BaseTest:233 - load strings/strings.xml
+[logs/Android_TestDevice INFO ] 2022-08-26 15:15:51.296 BaseTest:279 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.scaler.app.ui.SplashScreenActivity, appPackage=com.scaler.app, automationName=UiAutomator2, avd=TestDevice, avdLaunchTimeout=120000, databaseEnabled=false, desired={platformName=android, appActivity=com.scaler.app.ui.SplashScreenActivity, appPackage=com.scaler.app, automationName=UiAutomator2, avd=TestDevice, avdLaunchTimeout=120000, deviceName=TestDevice, systemPort=10000, udid=emulator-5554}, deviceApiLevel=33, deviceManufacturer=Google, deviceModel=sdk_gphone64_arm64, deviceName=emulator-5554, deviceScreenDensity=560, deviceScreenSize=1440x2560, deviceUDID=emulator-5554, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=3.5, platform=LINUX, platformName=Android, platformVersion=13, statBarHeight=84, systemPort=10000, takesScreenshot=true, udid=emulator-5554, viewportRect={left=0, top=84, width=1440, height=2392}, warnings={}, webStorageEnabled=false}
+[logs/Android_TestDevice INFO ] 2022-08-26 15:15:55.883 WelcomeTests:49 - 
+****** starting test:verifyExploreWithoutLogin******
+
+[logs/Android_TestDevice ERROR] 2022-08-26 15:16:08.513 TestListener:32 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Located by By.chained({By.id: com.scaler.app:id/btnExploreApp}) (tried for 10 second(s) with 500 milliseconds interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+	at com.qa.BaseTest.waitForVisibility(BaseTest.java:295)
+	at com.qa.BaseTest.click(BaseTest.java:317)
+	at com.qa.pages.WelcomePage.pressExplorerBtn(WelcomePage.java:26)
+	at com.qa.tests.WelcomeTests.verifyExploreWithoutLogin(WelcomeTests.java:68)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:794)
+	at org.testng.TestRunner.run(TestRunner.java:596)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:28)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:418)
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+Caused by: org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: By.chained({By.id: com.scaler.app:id/btnExploreApp})
+	at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:126)
+	at io.appium.java_client.pagefactory.interceptors.InterceptorOfASingleElement.intercept(InterceptorOfASingleElement.java:59)
+	at io.appium.java_client.android.AndroidElement$$EnhancerByCGLIB$$b598166c.isDisplayed(<generated>)
+	at org.openqa.selenium.support.ui.ExpectedConditions.elementIfVisible(ExpectedConditions.java:314)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:43)
+	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:300)
+	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:297)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+	... 27 more
+Caused by: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction@62950d2b (tried for 1 second(s) with 500 milliseconds interval)
+	at org.openqa.selenium.support.ui.FluentWait.timeoutException(FluentWait.java:304)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+	at io.appium.java_client.pagefactory.AppiumElementLocator.waitFor(AppiumElementLocator.java:99)
+	at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:119)
+	... 34 more
+Caused by: org.openqa.selenium.NoSuchElementException: Cannot locate an element using By.chained({By.id: com.scaler.app:id/btnExploreApp})
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Prasanths-MacBook-Pro.local', ip: 'fe80:0:0:0:1477:4637:bfcd:a0d7%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '15.0.2'
+Driver info: driver.version: AndroidDriver
+	at io.appium.java_client.pagefactory.bys.builder.ByChained.findElement(ByChained.java:74)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)
+	at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+	at io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)
+	at io.appium.java_client.pagefactory.bys.ContentMappedBy.findElement(ContentMappedBy.java:50)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)
+	at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+	at io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)
+	at io.appium.java_client.pagefactory.AppiumElementLocator.lambda$0(AppiumElementLocator.java:120)
+	at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:172)
+	at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:1)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+	... 36 more
+
+[logs/Android_TestDevice INFO ] 2022-08-26 15:16:10.960 WelcomeTests:49 - 
+****** starting test:verifyWelcomeMessage******
+
+[logs/Android_TestDevice ERROR] 2022-08-26 15:16:22.346 TestListener:32 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Located by By.chained({By.xpath: //android.widget.TextView[@text='Welcome to Scaler']}) (tried for 10 second(s) with 500 milliseconds interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+	at com.qa.BaseTest.waitForVisibility(BaseTest.java:295)
+	at com.qa.BaseTest.getAttribute(BaseTest.java:336)
+	at com.qa.BaseTest.getText(BaseTest.java:344)
+	at com.qa.pages.WelcomePage.getwelcomeTxt(WelcomePage.java:31)
+	at com.qa.tests.WelcomeTests.verifyWelcomeMessage(WelcomeTests.java:61)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:794)
+	at org.testng.TestRunner.run(TestRunner.java:596)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:28)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:418)
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+Caused by: org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: By.chained({By.xpath: //android.widget.TextView[@text='Welcome to Scaler']})
+	at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:126)
+	at io.appium.java_client.pagefactory.interceptors.InterceptorOfASingleElement.intercept(InterceptorOfASingleElement.java:59)
+	at io.appium.java_client.android.AndroidElement$$EnhancerByCGLIB$$b598166c.isDisplayed(<generated>)
+	at org.openqa.selenium.support.ui.ExpectedConditions.elementIfVisible(ExpectedConditions.java:314)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:43)
+	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:300)
+	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:297)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+	... 28 more
+Caused by: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction@39b17b21 (tried for 1 second(s) with 500 milliseconds interval)
+	at org.openqa.selenium.support.ui.FluentWait.timeoutException(FluentWait.java:304)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+	at io.appium.java_client.pagefactory.AppiumElementLocator.waitFor(AppiumElementLocator.java:99)
+	at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:119)
+	... 35 more
+Caused by: org.openqa.selenium.NoSuchElementException: Cannot locate an element using By.chained({By.xpath: //android.widget.TextView[@text='Welcome to Scaler']})
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Prasanths-MacBook-Pro.local', ip: 'fe80:0:0:0:1477:4637:bfcd:a0d7%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '15.0.2'
+Driver info: driver.version: AndroidDriver
+	at io.appium.java_client.pagefactory.bys.builder.ByChained.findElement(ByChained.java:74)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)
+	at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+	at io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)
+	at io.appium.java_client.pagefactory.bys.ContentMappedBy.findElement(ContentMappedBy.java:50)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)
+	at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+	at io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)
+	at io.appium.java_client.pagefactory.AppiumElementLocator.lambda$0(AppiumElementLocator.java:120)
+	at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:172)
+	at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:1)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+	... 37 more
+
+[logs/Android_TestDevice INFO ] 2022-08-26 15:19:44.764 BaseTest:221 - log path: logs/Android_TestDevice
+[logs/Android_TestDevice INFO ] 2022-08-26 15:19:44.768 BaseTest:228 - load config.properties
+[logs/Android_TestDevice INFO ] 2022-08-26 15:19:44.772 BaseTest:233 - load strings/strings.xml
+[logs/Android_TestDevice INFO ] 2022-08-26 15:19:59.258 BaseTest:279 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.scaler.app.ui.SplashScreenActivity, appPackage=com.scaler.app, automationName=UiAutomator2, avd=TestDevice, avdLaunchTimeout=120000, databaseEnabled=false, desired={platformName=android, appActivity=com.scaler.app.ui.SplashScreenActivity, appPackage=com.scaler.app, automationName=UiAutomator2, avd=TestDevice, avdLaunchTimeout=120000, deviceName=TestDevice, systemPort=10000, udid=emulator-5554}, deviceApiLevel=33, deviceManufacturer=Google, deviceModel=sdk_gphone64_arm64, deviceName=emulator-5554, deviceScreenDensity=560, deviceScreenSize=1440x2560, deviceUDID=emulator-5554, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=3.5, platform=LINUX, platformName=Android, platformVersion=13, statBarHeight=84, systemPort=10000, takesScreenshot=true, udid=emulator-5554, viewportRect={left=0, top=84, width=1440, height=2392}, warnings={}, webStorageEnabled=false}
+[logs/Android_TestDevice INFO ] 2022-08-26 15:20:03.041 WelcomeTests:49 - 
+****** starting test:verifyExploreWithoutLogin******
+
+[logs/Android_TestDevice ERROR] 2022-08-26 15:20:15.223 TestListener:32 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Located by By.chained({By.id: com.scaler.app:id/btnExploreApp}) (tried for 10 second(s) with 500 milliseconds interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+	at com.qa.BaseTest.waitForVisibility(BaseTest.java:295)
+	at com.qa.BaseTest.click(BaseTest.java:317)
+	at com.qa.pages.WelcomePage.pressExplorerBtn(WelcomePage.java:34)
+	at com.qa.tests.WelcomeTests.verifyExploreWithoutLogin(WelcomeTests.java:68)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:794)
+	at org.testng.TestRunner.run(TestRunner.java:596)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:28)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:418)
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+Caused by: org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: By.chained({By.id: com.scaler.app:id/btnExploreApp})
+	at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:126)
+	at io.appium.java_client.pagefactory.interceptors.InterceptorOfASingleElement.intercept(InterceptorOfASingleElement.java:59)
+	at io.appium.java_client.android.AndroidElement$$EnhancerByCGLIB$$b598166c.isDisplayed(<generated>)
+	at org.openqa.selenium.support.ui.ExpectedConditions.elementIfVisible(ExpectedConditions.java:314)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:43)
+	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:300)
+	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:297)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+	... 27 more
+Caused by: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction@63fb21 (tried for 1 second(s) with 500 milliseconds interval)
+	at org.openqa.selenium.support.ui.FluentWait.timeoutException(FluentWait.java:304)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+	at io.appium.java_client.pagefactory.AppiumElementLocator.waitFor(AppiumElementLocator.java:99)
+	at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:119)
+	... 34 more
+Caused by: org.openqa.selenium.NoSuchElementException: Cannot locate an element using By.chained({By.id: com.scaler.app:id/btnExploreApp})
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Prasanths-MacBook-Pro.local', ip: 'fe80:0:0:0:1477:4637:bfcd:a0d7%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '15.0.2'
+Driver info: driver.version: AndroidDriver
+	at io.appium.java_client.pagefactory.bys.builder.ByChained.findElement(ByChained.java:74)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)
+	at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+	at io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)
+	at io.appium.java_client.pagefactory.bys.ContentMappedBy.findElement(ContentMappedBy.java:50)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)
+	at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+	at io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)
+	at io.appium.java_client.pagefactory.AppiumElementLocator.lambda$0(AppiumElementLocator.java:120)
+	at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:172)
+	at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:1)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+	... 36 more
+
+[logs/Android_TestDevice INFO ] 2022-08-26 15:20:16.757 WelcomeTests:49 - 
+****** starting test:verifyWelcomeMessage******
+
+[logs/Android_TestDevice INFO ] 2022-08-26 15:20:16.911 BaseTest:318 - press Allow button
+[logs/Android_TestDevice INFO ] 2022-08-26 15:20:18.718 BaseTest:350 - welcome messageWelcome to Scaler
+[logs/Android_TestDevice INFO ] 2022-08-26 15:20:52.239 BaseTest:221 - log path: logs/Android_TestDevice
+[logs/Android_TestDevice INFO ] 2022-08-26 15:20:52.244 BaseTest:228 - load config.properties
+[logs/Android_TestDevice INFO ] 2022-08-26 15:20:52.247 BaseTest:233 - load strings/strings.xml
+[logs/Android_TestDevice INFO ] 2022-08-26 15:21:11.967 BaseTest:279 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.scaler.app.ui.SplashScreenActivity, appPackage=com.scaler.app, automationName=UiAutomator2, avd=TestDevice, avdLaunchTimeout=120000, databaseEnabled=false, desired={platformName=android, appActivity=com.scaler.app.ui.SplashScreenActivity, appPackage=com.scaler.app, automationName=UiAutomator2, avd=TestDevice, avdLaunchTimeout=120000, deviceName=TestDevice, systemPort=10000, udid=emulator-5554}, deviceApiLevel=33, deviceManufacturer=Google, deviceModel=sdk_gphone64_arm64, deviceName=emulator-5554, deviceScreenDensity=560, deviceScreenSize=1440x2560, deviceUDID=emulator-5554, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=3.5, platform=LINUX, platformName=Android, platformVersion=13, statBarHeight=84, systemPort=10000, takesScreenshot=true, udid=emulator-5554, viewportRect={left=0, top=84, width=1440, height=2392}, warnings={}, webStorageEnabled=false}
+[logs/Android_TestDevice INFO ] 2022-08-26 15:21:16.880 WelcomeTests:49 - 
+****** starting test:verifyExploreWithoutLogin******
+
+[logs/Android_TestDevice ERROR] 2022-08-26 15:21:30.393 TestListener:32 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Located by By.chained({By.id: com.scaler.app:id/btnExploreApp}) (tried for 10 second(s) with 500 milliseconds interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+	at com.qa.BaseTest.waitForVisibility(BaseTest.java:295)
+	at com.qa.BaseTest.click(BaseTest.java:317)
+	at com.qa.pages.WelcomePage.pressExplorerBtn(WelcomePage.java:34)
+	at com.qa.tests.WelcomeTests.verifyExploreWithoutLogin(WelcomeTests.java:68)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:794)
+	at org.testng.TestRunner.run(TestRunner.java:596)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:28)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:418)
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+Caused by: org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: By.chained({By.id: com.scaler.app:id/btnExploreApp})
+	at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:126)
+	at io.appium.java_client.pagefactory.interceptors.InterceptorOfASingleElement.intercept(InterceptorOfASingleElement.java:59)
+	at io.appium.java_client.android.AndroidElement$$EnhancerByCGLIB$$b598166c.isDisplayed(<generated>)
+	at org.openqa.selenium.support.ui.ExpectedConditions.elementIfVisible(ExpectedConditions.java:314)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:43)
+	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:300)
+	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:297)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+	... 27 more
+Caused by: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction@41b5f24b (tried for 1 second(s) with 500 milliseconds interval)
+	at org.openqa.selenium.support.ui.FluentWait.timeoutException(FluentWait.java:304)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+	at io.appium.java_client.pagefactory.AppiumElementLocator.waitFor(AppiumElementLocator.java:99)
+	at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:119)
+	... 34 more
+Caused by: org.openqa.selenium.NoSuchElementException: Cannot locate an element using By.chained({By.id: com.scaler.app:id/btnExploreApp})
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Prasanths-MacBook-Pro.local', ip: 'fe80:0:0:0:1477:4637:bfcd:a0d7%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '15.0.2'
+Driver info: driver.version: AndroidDriver
+	at io.appium.java_client.pagefactory.bys.builder.ByChained.findElement(ByChained.java:74)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)
+	at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+	at io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)
+	at io.appium.java_client.pagefactory.bys.ContentMappedBy.findElement(ContentMappedBy.java:50)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)
+	at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+	at io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)
+	at io.appium.java_client.pagefactory.AppiumElementLocator.lambda$0(AppiumElementLocator.java:120)
+	at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:172)
+	at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:1)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+	... 36 more
+
+[logs/Android_TestDevice INFO ] 2022-08-26 15:21:32.451 WelcomeTests:49 - 
+****** starting test:verifyWelcomeMessage******
+
+[logs/Android_TestDevice INFO ] 2022-08-26 15:21:32.676 BaseTest:318 - press Allow button
+[logs/Android_TestDevice INFO ] 2022-08-26 15:21:34.098 BaseTest:350 - welcome messageWelcome to Scaler
+[logs/Android_TestDevice INFO ] 2022-08-26 15:22:23.037 BaseTest:221 - log path: logs/Android_TestDevice
+[logs/Android_TestDevice INFO ] 2022-08-26 15:22:23.047 BaseTest:228 - load config.properties
+[logs/Android_TestDevice INFO ] 2022-08-26 15:22:23.052 BaseTest:233 - load strings/strings.xml
+[logs/Android_TestDevice INFO ] 2022-08-26 15:22:38.706 BaseTest:279 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.scaler.app.ui.SplashScreenActivity, appPackage=com.scaler.app, automationName=UiAutomator2, avd=TestDevice, avdLaunchTimeout=120000, databaseEnabled=false, desired={platformName=android, appActivity=com.scaler.app.ui.SplashScreenActivity, appPackage=com.scaler.app, automationName=UiAutomator2, avd=TestDevice, avdLaunchTimeout=120000, deviceName=TestDevice, systemPort=10000, udid=emulator-5554}, deviceApiLevel=33, deviceManufacturer=Google, deviceModel=sdk_gphone64_arm64, deviceName=emulator-5554, deviceScreenDensity=560, deviceScreenSize=1440x2560, deviceUDID=emulator-5554, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=3.5, platform=LINUX, platformName=Android, platformVersion=13, statBarHeight=84, systemPort=10000, takesScreenshot=true, udid=emulator-5554, viewportRect={left=0, top=84, width=1440, height=2392}, warnings={}, webStorageEnabled=false}
+[logs/Android_TestDevice INFO ] 2022-08-26 15:22:43.469 WelcomeTests:49 - 
+****** starting test:verifyWelcomeMessage******
+
+[logs/Android_TestDevice INFO ] 2022-08-26 15:22:45.518 BaseTest:318 - press Allow button
+[logs/Android_TestDevice INFO ] 2022-08-26 15:22:47.952 BaseTest:350 - welcome messageWelcome to Scaler
+[logs/Android_TestDevice INFO ] 2022-08-26 15:22:47.997 WelcomeTests:49 - 
+****** starting test:verifyExploreWithoutLogin******
+
+[logs/Android_TestDevice INFO ] 2022-08-26 15:22:48.144 BaseTest:318 - press Explore button
+[logs/Android_TestDevice INFO ] 2022-08-26 15:22:57.847 BaseTest:350 - profile nameHi, Guest
+[logs/Android_TestDevice INFO ] 2022-08-26 18:04:10.639 BaseTest:219 - log path: logs/Android_TestDevice
+[logs/Android_TestDevice INFO ] 2022-08-26 18:04:10.647 BaseTest:226 - load config.properties
+[logs/Android_TestDevice INFO ] 2022-08-26 18:04:10.657 BaseTest:231 - load strings/strings.xml
+[logs/Android_TestDevice FATAL] 2022-08-26 18:04:49.846 BaseTest:279 - driver initialization failure. ABORT!!!
+org.openqa.selenium.SessionNotCreatedException: Unable to create a new remote session. Please check the server log for more details. Original error: An unknown server-side error occurred while processing the command. Original error: Error executing adbExec. Original error: 'Command '/Users/prasanthkaruppaiya/Library/Android/sdk/platform-tools/adb -P 5037 -s emulator-5554 shell 'settings delete global hidden_api_policy_pre_p_apps;settings delete global hidden_api_policy_p_apps;settings delete global hidden_api_policy'' exited with code 20'; Command output: cmd: Can't find service: settings
+cmd: Can't find service: settings
+cmd: Can't find service: settings
+
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Prasanths-MacBook-Pro.local', ip: 'fe80:0:0:0:1477:4637:bfcd:a0d7%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '15.0.2'
+Driver info: driver.version: AndroidDriver
+remote stacktrace: UnknownError: An unknown server-side error occurred while processing the command. Original error: Error executing adbExec. Original error: 'Command '/Users/prasanthkaruppaiya/Library/Android/sdk/platform-tools/adb -P 5037 -s emulator-5554 shell 'settings delete global hidden_api_policy_pre_p_apps;settings delete global hidden_api_policy_p_apps;settings delete global hidden_api_policy'' exited with code 20'; Command output: cmd: Can't find service: settings
+cmd: Can't find service: settings
+cmd: Can't find service: settings
+
+    at getResponseForW3CError (/Applications/Appium Server GUI.app/Contents/Resources/app/node_modules/appium/node_modules/appium-base-driver/lib/protocol/errors.js:804:9)
+    at asyncHandler (/Applications/Appium Server GUI.app/Contents/Resources/app/node_modules/appium/node_modules/appium-base-driver/lib/protocol/protocol.js:380:37)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Prasanths-MacBook-Pro.local', ip: 'fe80:0:0:0:1477:4637:bfcd:a0d7%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '15.0.2'
+Driver info: driver.version: AndroidDriver
+[logs/Android_TestDevice INFO ] 2022-08-26 18:07:04.198 BaseTest:219 - log path: logs/Android_TestDevice
+[logs/Android_TestDevice INFO ] 2022-08-26 18:07:04.225 BaseTest:226 - load config.properties
+[logs/Android_TestDevice INFO ] 2022-08-26 18:07:04.251 BaseTest:231 - load strings/strings.xml
+[logs/Android_TestDevice INFO ] 2022-08-26 18:35:16.999 BaseTest:219 - log path: logs/Android_TestDevice
+[logs/Android_TestDevice INFO ] 2022-08-26 18:35:17.004 BaseTest:226 - load config.properties
+[logs/Android_TestDevice INFO ] 2022-08-26 18:35:17.010 BaseTest:231 - load strings/strings.xml
+[logs/Android_TestDevice FATAL] 2022-08-26 18:35:17.860 BaseTest:279 - driver initialization failure. ABORT!!!
+org.openqa.selenium.SessionNotCreatedException: Unable to create a new remote session. Please check the server log for more details. Original error: An unknown server-side error occurred while processing the command. Original error: Avd 'TestDevice' is not available. Please select your avd name from one of these: 'TestDevices'
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Prasanths-MacBook-Pro.local', ip: 'fe80:0:0:0:1477:4637:bfcd:a0d7%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '15.0.2'
+Driver info: driver.version: AndroidDriver
+remote stacktrace: UnknownError: An unknown server-side error occurred while processing the command. Original error: Avd 'TestDevice' is not available. Please select your avd name from one of these: 'TestDevices'
+    at getResponseForW3CError (/opt/homebrew/lib/node_modules/appium/node_modules/appium-base-driver/lib/protocol/errors.js:804:9)
+    at asyncHandler (/opt/homebrew/lib/node_modules/appium/node_modules/appium-base-driver/lib/protocol/protocol.js:380:37)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Prasanths-MacBook-Pro.local', ip: 'fe80:0:0:0:1477:4637:bfcd:a0d7%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '15.0.2'
+Driver info: driver.version: AndroidDriver
+[logs/Android_TestDevice INFO ] 2022-08-26 18:35:34.435 BaseTest:219 - log path: logs/Android_TestDevice
+[logs/Android_TestDevice INFO ] 2022-08-26 18:35:34.440 BaseTest:226 - load config.properties
+[logs/Android_TestDevice INFO ] 2022-08-26 18:35:34.444 BaseTest:231 - load strings/strings.xml
+[logs/Android_TestDevice FATAL] 2022-08-26 18:35:36.489 BaseTest:279 - driver initialization failure. ABORT!!!
+org.openqa.selenium.SessionNotCreatedException: Unable to create a new remote session. Please check the server log for more details. Original error: An unknown server-side error occurred while processing the command. Original error: Avd 'TestDevice' is not available. Please select your avd name from one of these: 'TestDevices'
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Prasanths-MacBook-Pro.local', ip: 'fe80:0:0:0:1477:4637:bfcd:a0d7%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '15.0.2'
+Driver info: driver.version: AndroidDriver
+remote stacktrace: UnknownError: An unknown server-side error occurred while processing the command. Original error: Avd 'TestDevice' is not available. Please select your avd name from one of these: 'TestDevices'
+    at getResponseForW3CError (/Applications/Appium Server GUI.app/Contents/Resources/app/node_modules/appium/node_modules/appium-base-driver/lib/protocol/errors.js:804:9)
+    at asyncHandler (/Applications/Appium Server GUI.app/Contents/Resources/app/node_modules/appium/node_modules/appium-base-driver/lib/protocol/protocol.js:380:37)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Prasanths-MacBook-Pro.local', ip: 'fe80:0:0:0:1477:4637:bfcd:a0d7%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '15.0.2'
+Driver info: driver.version: AndroidDriver
