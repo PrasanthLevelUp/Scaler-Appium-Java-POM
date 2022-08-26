@@ -1,0 +1,18 @@
+{
+	"invalidUser":{
+		"username":"invalidusername",
+		"password":"secret_sauce"
+	},
+	"invalidPassword":{
+		"username":"standard_user",
+		"password":"invalidpassword"
+	},
+	"validUser":{
+		"username":"standard_user",
+		"password":"secret_sauce"
+	},
+	"welcome": {
+		"welcome_message": "Welcome to Scaler",
+		"profile_WithoutLogin": "Hi, Guest"
+	}
+}
